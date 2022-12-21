@@ -11,6 +11,9 @@ public class Main {
         Fxron.color="green";
         Fxron.size="4382742km";
         Fxron.temp="-23478274372k";
-    }
+        PlanetOne planetOne=new PlanetOne();
+        planetOne.color="white";
+        planetOne.size=76767;
+    planetOne.temperature="99877";}
 
     }
